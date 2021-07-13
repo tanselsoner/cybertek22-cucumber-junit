@@ -1,2 +1,4 @@
 # Project exclude paths
+cybertek22-cucumber-junit.iml
+/.idea/
 /target/
